@@ -1,0 +1,2 @@
+- debo mejorar el texto de la primera imagen pq para telefono sale muy grande
+- debo arreglar la casilla de envio de mail
